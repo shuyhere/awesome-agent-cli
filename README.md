@@ -132,6 +132,7 @@ CLI tools built for **AI agents** (Claude Code, OpenClaw, Codex, Gemini CLI, Cur
 | Name | Stars | Lang | Tags | Description |
 |:-----|:------|:-----|:-----|:------------|
 | [gh](https://github.com/cli/cli) | ![](https://img.shields.io/github/stars/cli/cli?style=flat-square&label=) | Go | ![official][official] ![agent-friendly][agent-friendly] | GitHub CLI. Issues, PRs, CI/CD, code review, releases, API queries. |
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | ![](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=flat-square&label=) | Go | ![community][community] ![agent-friendly][agent-friendly] ![dev-tools][dev-tools] | Local AI coding agent session observability. Cost, token, latency, failure, and health reports from Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more. |
 
 </div>
 
@@ -232,5 +233,4 @@ Services without a good agent CLI yet: Jira, Confluence, Asana, Trello, Todoist,
 [markdown]: https://img.shields.io/badge/markdown-57606A?style=flat-square
 [batch-ops]: https://img.shields.io/badge/batch--ops-E3B341?style=flat-square
 [token-efficient]: https://img.shields.io/badge/token--efficient-2DA44E?style=flat-square
-
 
