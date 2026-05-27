@@ -131,6 +131,7 @@ CLI tools built for **AI agents** (Claude Code, OpenClaw, Codex, Gemini CLI, Cur
 
 | Name | Stars | Lang | Tags | Description |
 |:-----|:------|:-----|:-----|:------------|
+| [codex-profile](https://github.com/Ducksss/codex-profiles) | ![](https://img.shields.io/github/stars/Ducksss/codex-profiles?style=flat-square&label=) | Bash | ![community][community] ![agent-friendly][agent-friendly] ![dev-tools][dev-tools] | Switch Codex CLI/Desktop accounts with isolated `CODEX_HOME` profiles. Read-only `status --json`, `doctor --json`, and `path` help agents choose the right profile without copying auth files. |
 | [gh](https://github.com/cli/cli) | ![](https://img.shields.io/github/stars/cli/cli?style=flat-square&label=) | Go | ![official][official] ![agent-friendly][agent-friendly] | GitHub CLI. Issues, PRs, CI/CD, code review, releases, API queries. |
 
 </div>
@@ -232,5 +233,4 @@ Services without a good agent CLI yet: Jira, Confluence, Asana, Trello, Todoist,
 [markdown]: https://img.shields.io/badge/markdown-57606A?style=flat-square
 [batch-ops]: https://img.shields.io/badge/batch--ops-E3B341?style=flat-square
 [token-efficient]: https://img.shields.io/badge/token--efficient-2DA44E?style=flat-square
-
 
