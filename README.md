@@ -132,6 +132,7 @@ CLI tools built for **AI agents** (Claude Code, OpenClaw, Codex, Gemini CLI, Cur
 | Name | Stars | Lang | Tags | Description |
 |:-----|:------|:-----|:-----|:------------|
 | [gh](https://github.com/cli/cli) | ![](https://img.shields.io/github/stars/cli/cli?style=flat-square&label=) | Go | ![official][official] ![agent-friendly][agent-friendly] | GitHub CLI. Issues, PRs, CI/CD, code review, releases, API queries. |
+| [tuningengines-cli](https://github.com/cerebrixos-org/tuning-engines-cli) | ![](https://img.shields.io/github/stars/cerebrixos-org/tuning-engines-cli?style=flat-square&label=) | TypeScript | ![community][community] ![agent-friendly][agent-friendly] ![token-efficient][token-efficient] | Governed inference keys, registry sync, traces, approvals, and agent/MCP/skill control. |
 
 </div>
 
