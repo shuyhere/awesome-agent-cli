@@ -68,6 +68,7 @@ CLI tools built for **AI agents** (Claude Code, OpenClaw, Codex, Gemini CLI, Cur
 | [ov](https://github.com/sokojh/obsidian-vault) | ![](https://img.shields.io/github/stars/sokojh/obsidian-vault?style=flat-square&label=) | Rust | ![community][community] ![agent-first][agent-first] | Agent-first Obsidian vault CLI. JSON output, schema introspection, `--dry-run`. |
 | [obs](https://github.com/markfive-proto/obsidian-vault-cli) | ![](https://img.shields.io/github/stars/markfive-proto/obsidian-vault-cli?style=flat-square&label=) | TypeScript | ![community][community] ![agent-friendly][agent-friendly] | Obsidian vault CLI. 100+ commands for notes, search, tags, links, tasks. |
 | [obsidianRAGsody](https://github.com/nicolaischneider/obsidianRAGsody) | ![](https://img.shields.io/github/stars/nicolaischneider/obsidianRAGsody?style=flat-square&label=) | Python | ![community][community] ![agent-friendly][agent-friendly] | Obsidian vault RAG. Natural language queries, URL-to-markdown. |
+| [Remio CLI](https://remio.ai/) | -- | -- | ![community][community] ![agent-friendly][agent-friendly] ![token-efficient][token-efficient] | Query the local indexes and vectors built by the Remio desktop client across files, webpages, recordings, emails, messages, images, and notes. Requires Remio desktop. |
 
 </div>
 
