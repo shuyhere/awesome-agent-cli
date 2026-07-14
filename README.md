@@ -188,6 +188,7 @@ CLI tools built for **AI agents** (Claude Code, OpenClaw, Codex, Gemini CLI, Cur
 | Name | Stars | Lang | Tags | Description |
 |:-----|:------|:-----|:-----|:------------|
 | [cc-connect](https://github.com/chenhg5/cc-connect) | ![](https://img.shields.io/github/stars/chenhg5/cc-connect?style=flat-square&label=) | Go | ![community][community] ![bridge][bridge] | Bridge agents to Feishu, DingTalk, Slack, Telegram, Discord. |
+| [OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay) | ![](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=flat-square&label=) | Python | ![community][community] ![agent-first][agent-first] ![bridge][bridge] | Expose an existing local agent or automation as a trusted-LAN capability with JSON output, capability checks, conversations, and exit codes. |
 | [golembot](https://github.com/0xranx/golembot) | ![](https://img.shields.io/github/stars/0xranx/golembot?style=flat-square&label=) | TypeScript | ![community][community] ![bridge][bridge] | Any Agent, Any Provider, Anywhere. Slack, Telegram, Discord, Feishu, WeCom. |
 | [feishu-claude-code](https://github.com/joewongjc/feishu-claude-code) | ![](https://img.shields.io/github/stars/joewongjc/feishu-claude-code?style=flat-square&label=) | Python | ![community][community] ![bridge][bridge] | Bridge Claude Code to Feishu/Lark via WebSocket. |
 
