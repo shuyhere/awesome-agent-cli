@@ -12,6 +12,7 @@
     <a href="#social--messaging">Social</a> &middot;
     <a href="#developer-tools">Dev Tools</a> &middot;
     <a href="#browser--web-automation">Browser</a> &middot;
+    <a href="#payments">Payments</a> &middot;
     <a href="#agent-applications">Agent Apps</a> &middot;
     <a href="#agent-bridges">Bridges</a>
   </p>
@@ -157,6 +158,18 @@ CLI tools built for **AI agents** (Claude Code, OpenClaw, Codex, Gemini CLI, Cur
 | [fara](https://github.com/microsoft/fara) | ![](https://img.shields.io/github/stars/microsoft/fara?style=flat-square&label=) | Python | ![official][official] ![agent-first][agent-first] | Fara-7B: agentic model for computer use, Microsoft. |
 | [mobile-use](https://github.com/minitap-ai/mobile-use) | ![](https://img.shields.io/github/stars/minitap-ai/mobile-use?style=flat-square&label=) | Python | ![community][community] ![agent-first][agent-first] | AI agents on real Android/iOS apps. |
 | [agent-browser-go](https://github.com/cpunion/agent-browser-go) | ![](https://img.shields.io/github/stars/cpunion/agent-browser-go?style=flat-square&label=) | Go | ![community][community] ![agent-first][agent-first] | Headless browser CLI. chromedp/playwright backends. |
+
+</div>
+
+---
+
+## Payments
+
+<div align="center">
+
+| Name | Stars | Lang | Tags | Description |
+|:-----|:------|:-----|:-----|:------------|
+| [apn](https://github.com/nuanu-ai/agent-payment-node) | ![](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=flat-square&label=) | TypeScript | ![community][community] ![agent-first][agent-first] | Local buyer-side x402 payment runtime with structured CLI output and stdio MCP tools for offer inspection, bounded preparation and status/receipts. Apple Silicon macOS and Node 24 only. |
 
 </div>
 
