@@ -132,6 +132,7 @@ CLI tools built for **AI agents** (Claude Code, OpenClaw, Codex, Gemini CLI, Cur
 | Name | Stars | Lang | Tags | Description |
 |:-----|:------|:-----|:-----|:------------|
 | [gh](https://github.com/cli/cli) | ![](https://img.shields.io/github/stars/cli/cli?style=flat-square&label=) | Go | ![official][official] ![agent-friendly][agent-friendly] | GitHub CLI. Issues, PRs, CI/CD, code review, releases, API queries. |
+| [nexscope](https://github.com/nexscope-ai/nexscope-cli) | ![](https://img.shields.io/github/stars/nexscope-ai/nexscope-cli?style=flat-square&label=) | TypeScript | ![community][community] ![agent-friendly][agent-friendly] | Ecommerce tool discovery + bounded MCP/API calls for Amazon product research agents. |
 
 </div>
 
